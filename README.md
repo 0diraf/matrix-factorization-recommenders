@@ -10,3 +10,5 @@ In this project, I explore matrix factorization techniques for recommender syste
 *   Implement functions that recommend movies to users using the predicted ratings as estimated by matrix factorization
 *   Explore cold-start problem
 *   Implement a solution to the cold start problem that does not involve retraining the model.
+
+Check out the notebook by clicking [here](https://github.com/0diraf/matrix-factorization-recommenders/blob/main/MatrixFactorization.ipynb)
