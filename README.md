@@ -9,8 +9,8 @@ In this project, I explore matrix factorization techniques for recommender syste
 ## ✅ Objectives 
 
 *   Implement Matrix Factorization
-  *  using scipy's svds()
-  *  using gradient descent
+    *  using scipy's svds()
+    *  using gradient descent
 *   Implement functions that recommend movies to users using the predicted ratings as estimated by matrix factorization
 *   Explore cold-start problem
 *   Implement a solution to the cold start problem that does not involve retraining the model.
